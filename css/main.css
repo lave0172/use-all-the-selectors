@@ -26,11 +26,11 @@ nav ul {
   background-color: #b58900;
 }
 
-.dfn + strong {
+p + strong {
   color: #fff;
 }
 
-a {
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
